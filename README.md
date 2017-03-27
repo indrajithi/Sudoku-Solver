@@ -1,6 +1,6 @@
 Sudoku Solver CLI
 ======
 
-SUDOKU solver in C++
+A simple SUDOKU solver written in C++
 
 
