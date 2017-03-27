@@ -86,7 +86,7 @@ int main()
             3,0,0   ,0,0,4    ,0,0,0,
             0,2,0   ,1,8,9    ,0,0,7,
             0,0,0   ,7,0,0    ,0,0,0
-           };*/ This sudoku does not solve.
+           };*/ // This sudoku does not solve.
     int get_res;
    // float time;
     puzzle fun;
