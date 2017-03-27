@@ -1,4 +1,4 @@
-#Sudoku Solver CLI
+Sudoku Solver CLI
 ======
 
 SUDOKU solver in C++
