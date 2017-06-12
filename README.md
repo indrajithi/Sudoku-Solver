@@ -33,7 +33,7 @@ Algorithm
   - Call Check function:  Check whether the Sudoku is solved. 
    If true return to main function else continue the loop.
   - Loop (while time<10 sec):  
-
+```
 a. Call the Guess function: Find the best cell with least possibilities.
 b. Call Backup function: Back up the initial state of the Sudoku with possibilities, before performing the guess.
 c. Perform the guess: Assign the first possibility of the best cell to output Sudoku (su_out).Guess_No++;
@@ -44,5 +44,5 @@ e. Loop until Conflict function: returns 0:
         a) Call Restore function:
         b) Eliminate the failed possibility.
 f. Call Check function: If it returned 1, break.
-
+```
 - Check the output. If solved>Display function: output. Else display> not solved.
